@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<artists>
+    <artist id="1">
+        <firstname>Firstname1</firstname>
+        <lastname>Lastname1</lastname>
+        <pseudonym>Pseudonym1</pseudonym>
+        <profession>Proffesion1</profession>
+        <alive>true</alive>
+    </artist>
+    <artist id="2">
+        <firstname>Firstname2</firstname>
+        <lastname>Lastname2</lastname>
+        <pseudonym>Pseudonym2</pseudonym>
+        <profession>Proffesion2</profession>
+        <alive>false</alive>
+    </artist>
+    <artist id="3">
+        <firstname>Firstname3</firstname>
+        <lastname>Lastname3</lastname>
+        <pseudonym>Pseudonym3</pseudonym>
+        <profession>Proffesion3</profession>
+        <alive>true</alive>
+    </artist>
+    <artist id="4">
+        <firstname>Firstname4</firstname>
+        <lastname>Lastname4</lastname>
+        <pseudonym>Pseudonym4</pseudonym>
+        <profession>Proffesion4</profession>
+        <alive>false</alive>
+    </artist>
+</artists>
